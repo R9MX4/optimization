@@ -1,6 +1,6 @@
 ## Optimization
 
-<br>1.Open AUTOCAD/Map1.dwg in AutoCAD \<br>
+1.Open AUTOCAD/Map1.dwg in AutoCAD
 Export the coordinates of all subway stations and mountain
 
 2.Random choose 30 stations\<br>
