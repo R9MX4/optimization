@@ -1,6 +1,6 @@
-# Optimization
+##Optimization
 
-1. Open AUTOCAD/Map1.dwg in AutoCAD
+1.Open AUTOCAD/Map1.dwg in AutoCAD
 
 Export the coordinates of all subway stations and mountain
 
@@ -23,7 +23,7 @@ total_length = 50.8136
 
 T means Connect point 1 to 24, 24 to 2, ect..
 
-5. Input the coordinates of selected stations to AUTOCAD/point.txt
+5.Input the coordinates of selected stations to AUTOCAD/point.txt
 
 Input the coordinates of Minimum spanning tree to AUTOCAD/line.txt
 
