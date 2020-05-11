@@ -1,20 +1,20 @@
 # optimization
-==
+--
 
 1. Open AUTOCAD/Map1.dwg in AutoCAD
 Export the coordinates of all subway stations and mountain
-==
+--
 
 2.Random choose 30 stations.
 Input the coordinates of mountain and selected stations to file DisCal/Debug/Mountain.txt and DisCal/Debug/Station.txt
-==
+--
 
 3.Run DisCal/Debug/DisCal.exe, get results in DisCal/Debug/Distance.txt
-==
+--
 
 4.Copy Distance.txt to MST/Distance.txt
 Run MST.m in MATLAB, get the Minimum spanning tree
-==
+--
 
 Example:
 T =
@@ -23,7 +23,7 @@ T =
 total_length =
    50.8136
 Connect point 1 to 24, 24 to 2, ect..
-==
+--
 
 5. Input the coordinates of selected stations to AUTOCAD/point.txt
 Input the coordinates of Minimum spanning tree to AUTOCAD/line.txt
