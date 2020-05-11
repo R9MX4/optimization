@@ -23,4 +23,4 @@ T means Connect point 1 to 24, 24 to 2, ect..
 5. Input the coordinates of selected stations to AUTOCAD/point.txt
 Input the coordinates of Minimum spanning tree to AUTOCAD/line.txt
 Open AUTOCAD/Map2.dwg in AutoCAD
-Put point.txt and line.txt into command line console.
+Put point.txt and line.txt into command line console
